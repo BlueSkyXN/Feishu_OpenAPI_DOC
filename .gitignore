@@ -1,6 +1,22 @@
-.DS_Store/
-多维表格/.DS_Store
-文档/.DS_Store
+# macOS
 .DS_Store
-AGENTS.md
-CLAUDE.md
+**/.DS_Store
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+.~*
+
+# System files  
+Thumbs.db
+
+# Build and dist
+node_modules/
+dist/
+build/
